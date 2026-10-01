@@ -1,368 +1,368 @@
-id,label,kapazitaet_kwh,verbrauch_kwh_100km,max_ladeleistung_kw,bauform
-dacia-spring-electric-80,Dacia Spring Electric 80,27.4,13,80,kompakt
-dacia-spring-electric-100,Dacia Spring Electric 100,27.4,13,80,kompakt
-renault-twingo-e-tech-27-5-kwh,Renault Twingo E-Tech 27.5 kWh,27.5,13,80,kompakt
-fiat-500e-limousine-24kwh,Fiat 500e Limousine 24kWh,24.0,14,80,limousine
-fiat-500e-limousine-42kwh,Fiat 500e Limousine 42kWh,42.0,14,80,limousine
-fiat-500e-cabrio-24-kwh,Fiat 500e Cabrio 24 kWh,24.0,17,80,coupé
-fiat-500e-cabrio-42-kwh,Fiat 500e Cabrio 42 kWh,42.0,17,80,coupé
-fiat-500e-3-1-42-kwh,Fiat 500e 3+1 42 kWh,42.0,13,80,kompakt
-mini-cooper-e,Mini Cooper E,40.7,15,100,kompakt
-mini-cooper-se,Mini Cooper SE,54.2,16,100,kompakt
-mini-cooper-jcw,Mini Cooper JCW,54.2,18,100,kompakt
-mini-aceman-se,Mini Aceman SE,54.2,18,100,SUV
-mini-aceman-jcw,Mini Aceman JCW,54.2,23,100,sportwagen
-hyundai-inster-standard-range,Hyundai INSTER Standard Range,42,17,100,SUV
-hyundai-inster-long-range,Hyundai INSTER Long Range,49,18,100,SUV
-renault-5-e-tech-40kwh-120ps,Renault 5 E-Tech 40kWh 120ps,40.0,17,100,SUV
-renault-5-e-tech-52kwh-150ps,Renault 5 E-Tech 52kWh 150ps,52.0,18,100,SUV
-renault-4-e-tech-40kwh-120ps,Renault 4 E-Tech 40kWh 120ps,40.0,17,100,SUV
-renault-4-e-tech-52kwh-150ps,Renault 4 E-Tech 52kWh 150ps,52.0,18,100,SUV
-alfa-romeo-junior-elettrica-54-kwh,Alfa Romeo Junior Elettrica 54 kWh,54.0,16,100,kompakt
-jeep-avenger-elektro,Jeep Avenger Elektro,54,16,100,kompakt
-abarth-600e-turismo,Abarth 600e Turismo,54,18,100,SUV
-abarth-600e-competizione,Abarth 600e Competizione,54,18,100,SUV
-opel-corsa-electric-50-kwh,Opel Corsa Electric 50 kWh,50.0,16,80,kompakt
-opel-corsa-electric-54-kwh,Opel Corsa Electric 54 kWh,54.0,16,80,kompakt
-opel-corsa-electric-gse,Opel Corsa Electric GSE,54,16,80,kompakt
-peugeot-e-208-50-kwh-136,Peugeot e-208 50 kWh 136,50.0,16,80,kompakt
-peugeot-e-208-54-kwh-156,Peugeot e-208 54 kWh 156,54.0,16,80,kompakt
-peugeot-e-208-gti,Peugeot e-208 GTi,54,18,80,kompakt
-citro-n-c3-urban-range-30-kwh,Citroën ë-C3 Urban Range 30 kWh,30.0,17,100,SUV
-citro-n-c4-54-kwh,Citroën ë-C4 54 kWh,54.0,18,100,SUV
-citro-n-c4-x-54-kwh,Citroën ë-C4 X 54 kWh,54.0,18,100,SUV
-citro-n-c4,Citroën ë-C4,80.0,18,175,SUV
-citro-n-c4-x,Citroën ë-C4 X,80.0,18,175,SUV
-ds-automobiles-n-4,DS Automobiles N°4,54,18,100,SUV
-lancia-ypsilon-electric,Lancia Ypsilon Electric,54,16,100,kompakt
-byd-dolphin-surf-30-kwh-active,BYD DOLPHIN SURF 30 kWh Active,30.0,17,100,SUV
-byd-dolphin-surf-43-2-kwh-boost,BYD DOLPHIN SURF 43.2 kWh Boost,43.2,17,100,SUV
-byd-dolphin-surf-43-2-kwh-comfort,BYD DOLPHIN SURF 43.2 kWh Comfort,43.2,17,100,SUV
-byd-dolphin-60-4-kwh,BYD DOLPHIN 60.4 kWh,60.4,18,150,SUV
-mg-mg4-urban-active-standard-range,MG MG4 Urban Active Standard Range,64,16,150,kompakt
-mg-mg4-urban-comfort-long-range,MG MG4 Urban Comfort Long Range,64,16,150,kompakt
-mg-mg4-urban-premium-long-range,MG MG4 Urban Premium Long Range,64,16,150,kompakt
-mg4-standard-range,MG4 Standard Range,64,16,150,kompakt
-mg4-long-range,MG4 Long Range,64,16,150,kompakt
-mg4-xpower,MG4 XPower,64,16,150,kompakt
-volkswagen-id-3-pro,Volkswagen ID.3 Pro,58,16,150,kompakt
-volkswagen-id-3-neo-125-kw-50-kwh,Volkswagen ID.3 Neo 125 kW - 50 kWh,50.0,16,100,kompakt
-volkswagen-id-3-neo-140-kw-58-kwh,Volkswagen ID.3 Neo 140 kW - 58 kWh,58.0,16,150,kompakt
-volkswagen-id-3-neo-170-kw-79-kwh,Volkswagen ID.3 Neo 170 kW - 79 kWh,79.0,16,175,kompakt
-cupra-born-140-kw-58-kwh,CUPRA Born 140 kW - 58 kWh,58.0,16,150,kompakt
-cupra-born-endurance,CUPRA Born Endurance,77,16,175,kompakt
-cupra-raval-85-kw-37-kwh,CUPRA Raval 85 kW - 37 kWh,37.0,15,80,kompakt
-cupra-raval-99-kw-37-kwh,CUPRA Raval 99 kW - 37 kWh,37.0,15,80,kompakt
-cupra-raval-155-kw-52-kwh,CUPRA Raval 155 kW - 52 kWh,52.0,16,80,kompakt
-koda-epiq-40,Škoda Epiq 40,55,18,150,SUV
-koda-epiq-55,Škoda Epiq 55,55,18,150,SUV
-koda-elroq-50,Škoda Elroq 50,77,18,175,SUV
-koda-elroq-60,Škoda Elroq 60,77,18,175,SUV
-koda-elroq-85,Škoda Elroq 85,77,18,175,SUV
-koda-elroq-85x,Škoda Elroq 85x,77,18,175,SUV
-koda-elroq-rs,Škoda Elroq RS,77,18,175,SUV
-koda-enyaq-60,Škoda Enyaq 60,77,18,175,SUV
-koda-enyaq-85,Škoda Enyaq 85,77,18,175,SUV
-koda-enyaq-85x,Škoda Enyaq 85x,77,18,175,SUV
-koda-enyaq-coupe-60,Škoda Enyaq Coupe 60,77,18,175,SUV
-koda-enyaq-coupe-85,Škoda Enyaq Coupe 85,77,18,175,SUV
-koda-enyaq-coupe-85x,Škoda Enyaq Coupe 85x,77,18,175,SUV
-koda-peaq-90,Škoda Peaq 90,90,18,175,SUV
-koda-peaq-90x,Škoda Peaq 90x,90,18,175,SUV
-volkswagen-id-4-pure,Volkswagen ID.4 Pure,77,18,175,SUV
-volkswagen-id-4-pro,Volkswagen ID.4 Pro,77,18,175,SUV
-volkswagen-id-4-pro-4motion,Volkswagen ID.4 Pro 4MOTION,77,18,175,SUV
-volkswagen-id-4-gtx,Volkswagen ID.4 GTX,77,20,175,SUV
-volkswagen-id-5-pure,Volkswagen ID.5 Pure,77,18,175,SUV
-volkswagen-id-5-pro,Volkswagen ID.5 Pro,77,18,175,SUV
-volkswagen-id-5-pro-4motion,Volkswagen ID.5 Pro 4MOTION,77,18,175,SUV
-volkswagen-id-7-pro,Volkswagen ID.7 Pro,86,18,200,SUV
-volkswagen-id-7-pro-s,Volkswagen ID.7 Pro S,86,18,200,SUV
-volkswagen-id-7-gtx,Volkswagen ID.7 GTX,86,20,200,SUV
-volkswagen-id-7-tourer-pro,Volkswagen ID.7 Tourer Pro,86,19,200,kombi
-volkswagen-id-7-tourer-pro-s,Volkswagen ID.7 Tourer Pro S,86,19,200,kombi
-volkswagen-id-7-tourer-gtx,Volkswagen ID.7 Tourer GTX,86,21,200,kombi
-ford-explorer-standard-range-rwd,Ford Explorer Standard Range RWD,77,18,175,SUV
-ford-explorer-extended-range-rwd,Ford Explorer Extended Range RWD,77,18,175,SUV
-ford-capri-extended-range-awd,Ford Capri Extended Range AWD,79,18,175,SUV
-ford-mustang-mach-e-awd-extended-range,Ford Mustang Mach-E AWD Extended Range,91,18,115,SUV
-ford-mustang-mach-e-gt,Ford Mustang Mach-E GT,91,20,115,SUV
-ford-mustang-mach-e-rally,Ford Mustang Mach-E Rally,91,18,115,SUV
-ford-puma-gen-e,Ford Puma Gen-E,54,16,100,kompakt
-tesla-model-3-rwd,Tesla Model 3 RWD,79,15,250,limousine
-tesla-model-3-premium-rwd,Tesla Model 3 Premium RWD,79,15,250,limousine
-tesla-model-3-premium-awd,Tesla Model 3 Premium AWD,79,15,250,limousine
-tesla-model-3-performance,Tesla Model 3 Performance,79,17,250,limousine
-tesla-model-y-rwd,Tesla Model Y RWD,79,18,250,SUV
-tesla-model-y-premium-rwd,Tesla Model Y Premium RWD,79,18,250,SUV
-tesla-model-y-long-range-awd,Tesla Model Y Long Range AWD,79,18,250,SUV
-tesla-model-y-performance,Tesla Model Y Performance,79,23,250,sportwagen
-nissan-leaf-standard-reichweite-52-kwh,Nissan LEAF Standard-Reichweite 52 kWh,52.0,16,100,kompakt
-nissan-leaf-erweiterte-reichweite-75-kwh,Nissan LEAF Erweiterte Reichweite 75 kWh,75.0,16,175,kompakt
-nissan-micra-40-kwh,Nissan Micra 40 kWh,40.0,15,80,kompakt
-nissan-micra-52-kwh,Nissan Micra 52 kWh,52.0,16,80,kompakt
-nissan-ariya-63-kwh,Nissan Ariya 63 kWh,63.0,18,150,SUV
-nissan-ariya-87-kwh,Nissan Ariya 87 kWh,87.0,18,175,SUV
-nissan-ariya-e-4orce-87-kwh,Nissan Ariya e-4ORCE 87 kWh,87.0,18,175,SUV
-kia-ev2-42-2-kwh,Kia EV2 42.2 kWh,42.2,17,100,SUV
-kia-ev2-61-kwh,Kia EV2 61 kWh,61.0,18,150,SUV
-kia-ev3-58-3-kwh,Kia EV3 58.3 kWh,58.3,18,150,SUV
-kia-ev3-81-4-kwh-awd,Kia EV3 81.4 kWh AWD,81.4,18,175,SUV
-kia-ev3-gt,Kia EV3 GT,81.4,20,175,SUV
-kia-ev4-58-3-kwh,Kia EV4 58.3 kWh,58.3,18,150,SUV
-kia-ev4-81-4-kwh,Kia EV4 81.4 kWh,81.4,18,175,SUV
-kia-ev4-81-4-kwh-awd,Kia EV4 81.4 kWh AWD,81.4,18,175,SUV
-kia-ev4-81-4-kwh-gt,Kia EV4 81.4 kWh GT,81.4,20,175,SUV
-kia-ev5-81-4-kwh-awd,Kia EV5 81.4 kWh AWD,81.4,18,175,SUV
-kia-ev6-63-kwh-rwd,Kia EV6 63 kWh RWD,63.0,18,240,SUV
-kia-ev6-84-kwh-rwd,Kia EV6 84 kWh RWD,84.0,18,240,SUV
-kia-ev6-84-kwh-awd,Kia EV6 84 kWh AWD,84.0,18,240,SUV
-kia-ev6-gt,Kia EV6 GT,84,20,240,SUV
-kia-ev9-99-8-kwh-rwd,Kia EV9 99.8 kWh RWD,99.8,22,240,SUV
-kia-ev9-99-8-kwh-awd,Kia EV9 99.8 kWh AWD,99.8,22,240,SUV
-kia-ev9-99-8-kwh-awd-gt-line,Kia EV9 99.8 kWh AWD GT-Line,99.8,24,240,SUV
-kia-ev9-99-8-kwh-awd-gt,Kia EV9 99.8 kWh AWD GT,99.8,24,240,SUV
-hyundai-kona-electric-48-6-kwh,Hyundai Kona Electric 48.6 kWh,48.6,18,100,SUV
-hyundai-kona-electric-65-4-kwh,Hyundai Kona Electric 65.4 kWh,65.4,18,150,SUV
-hyundai-ioniq-5-63-kwh,Hyundai IONIQ 5 63 kWh,63.0,18,240,SUV
-hyundai-ioniq-5-84-kwh,Hyundai IONIQ 5 84 kWh,84.0,18,240,SUV
-hyundai-ioniq-5-84-kwh-allrad,Hyundai IONIQ 5 84 kWh Allrad,84.0,18,240,SUV
-hyundai-ioniq-6-63-kwh-rwd,Hyundai IONIQ 6 63 kWh RWD,63.0,16,240,SUV
-hyundai-ioniq-6-84-kwh-rwd,Hyundai IONIQ 6 84 kWh RWD,84.0,16,240,SUV
-hyundai-ioniq-6-84-kwh-allrad,Hyundai IONIQ 6 84 kWh Allrad,84.0,16,240,SUV
-hyundai-ioniq-9-long-range-rwd,Hyundai IONIQ 9 Long Range RWD,110,18,240,SUV
-hyundai-ioniq-9-long-range-awd,Hyundai IONIQ 9 Long Range AWD,110,18,240,SUV
-hyundai-ioniq-9-performance-awd,Hyundai IONIQ 9 Performance AWD,110,20,240,SUV
-hyundai-staria-elektro-84-kwh,Hyundai STARIA Elektro 84 kWh,84.0,27,175,van
-bmw-i4-edrive35,BMW i4 eDrive35,81,17,175,limousine
-bmw-i4-edrive40,BMW i4 eDrive40,81,17,175,limousine
-bmw-i4-xdrive40,BMW i4 xDrive40,81,17,175,limousine
-bmw-i4-m60-xdrive,BMW i4 M60 xDrive,81,19,175,limousine
-bmw-i5-xdrive40-limousine,BMW i5 xDrive40 Limousine,84,17,175,limousine
-bmw-i5-edrive40-touring,BMW i5 eDrive40 Touring,84,19,175,kombi
-bmw-i5-xdrive40-touring,BMW i5 xDrive40 Touring,84,19,175,kombi
-bmw-i7-m70-xdrive,BMW i7 M70 xDrive,101.7,19,200,limousine
-bmw-ix1-edrive20,BMW iX1 eDrive20,65,18,150,SUV
-bmw-ix1-xdrive30,BMW iX1 xDrive30,65,18,150,SUV
-bmw-ix2-edrive20,BMW iX2 eDrive20,65,18,150,SUV
-bmw-ix2-xdrive30,BMW iX2 xDrive30,65,18,150,SUV
-bmw-ix3-40,BMW iX3 40,80,18,175,SUV
-bmw-ix-xdrive45,BMW iX xDrive45,105,18,200,SUV
-bmw-ix-m70-xdrive,BMW iX M70 xDrive,105,20,200,SUV
-bmw-ix5-60-xdrive,BMW iX5 60 xDrive,110,18,200,SUV
-mercedes-benz-eqa-250,Mercedes-Benz EQA 250+,70.5,18,150,SUV
-mercedes-benz-eqa-350-4matic,Mercedes-Benz EQA 350 4MATIC,70.5,18,150,SUV
-mercedes-benz-eqb-250,Mercedes-Benz EQB 250+,70.5,18,150,SUV
-mercedes-benz-eqb-350-4matic,Mercedes-Benz EQB 350 4MATIC,70.5,18,150,SUV
-mercedes-benz-gla-250,Mercedes-Benz GLA 250+,85,18,175,SUV
-mercedes-benz-gla-350-4matic,Mercedes-Benz GLA 350 4MATIC,85,18,175,SUV
-mercedes-benz-glb-350-4matic,Mercedes-Benz GLB 350 4MATIC,85,18,175,SUV
-mercedes-benz-cla-200,Mercedes-Benz CLA 200,85,15,175,limousine
-mercedes-benz-cla-250,Mercedes-Benz CLA 250+,85,15,175,limousine
-mercedes-benz-cla-250-2,Mercedes-Benz CLA 250,85,15,175,limousine
-mercedes-benz-cla-350-4matic,Mercedes-Benz CLA 350 4MATIC,85,15,175,limousine
-mercedes-benz-cla-45-4matic,Mercedes-Benz CLA 45 4MATIC+,85,15,175,limousine
-mercedes-benz-eqe-300,Mercedes-Benz EQE 300,96,17,200,limousine
-mercedes-benz-eqe-350,Mercedes-Benz EQE 350+,96,17,200,limousine
-mercedes-benz-eqe-350-4matic,Mercedes-Benz EQE 350 4MATIC,96,17,200,limousine
-mercedes-benz-eqs-450,Mercedes-Benz EQS 450+,118,17,200,limousine
-mercedes-benz-eqs-580-4matic,Mercedes-Benz EQS 580 4MATIC,118,17,200,limousine
-mercedes-benz-eqe-suv-350,Mercedes-Benz EQE SUV 350+,96,17,200,limousine
-mercedes-benz-eqe-suv-500-4matic,Mercedes-Benz EQE SUV 500 4MATIC,96,17,200,limousine
-mercedes-benz-eqe-suv-amg-53-4matic,Mercedes-Benz EQE SUV AMG 53 4MATIC+,96,17,200,limousine
-mercedes-benz-eqs-suv-450,Mercedes-Benz EQS SUV 450+,118,21,200,limousine
-mercedes-benz-eqs-suv-450-4matic,Mercedes-Benz EQS SUV 450 4MATIC,118,21,200,limousine
-mercedes-benz-eqs-suv-500-4matic,Mercedes-Benz EQS SUV 500 4MATIC,118,21,200,limousine
-mercedes-benz-eqs-suv-580-4matic,Mercedes-Benz EQS SUV 580 4MATIC,118,21,200,limousine
-mercedes-benz-eqs-suv-maybach-680,Mercedes-Benz EQS SUV Maybach 680,118,21,200,limousine
-mercedes-benz-glc-250,Mercedes-Benz GLC 250,94,18,175,SUV
-mercedes-benz-glc-300-4matic,Mercedes-Benz GLC 300 4MATIC,94,18,175,SUV
-mercedes-benz-glc-400-4matic,Mercedes-Benz GLC 400 4MATIC,94,18,175,SUV
-mercedes-benz-g-580,Mercedes-Benz G 580,116,22,200,SUV
-audi-q4-e-tron,Audi Q4 e-tron,82,18,175,SUV
-audi-q4-e-tron-performance,Audi Q4 e-tron performance,82,20,175,SUV
-audi-q4-sportback-e-tron-performance,Audi Q4 Sportback e-tron performance,82,20,175,SUV
-audi-q4-sportback-e-tron-quattro,Audi Q4 Sportback e-tron quattro,82,18,175,SUV
-audi-a6-sportback-e-tron,Audi A6 Sportback e-tron,100,17,200,limousine
-audi-a6-sportback-e-tron-performance,Audi A6 Sportback e-tron performance,100,19,200,limousine
-audi-a6-avant-e-tron,Audi A6 Avant e-tron,100,19,200,kombi
-audi-a6-avant-e-tron-performance,Audi A6 Avant e-tron performance,100,21,200,kombi
-audi-a6-avant-e-tron-quattro,Audi A6 Avant e-tron quattro,100,19,200,kombi
-audi-q6-suv-e-tron-performance,Audi Q6 SUV e-tron performance,100,20,200,SUV
-audi-q6-suv-e-tron-quattro,Audi Q6 SUV e-tron quattro,100,18,200,SUV
-audi-sq6-suv-e-tron,Audi SQ6 SUV e-tron,100,18,200,SUV
-porsche-taycan-turbo,Porsche Taycan Turbo,105,19,320,limousine
-porsche-taycan-gts,Porsche Taycan GTS,105,19,320,limousine
-porsche-taycan-plus-sport-turismo,Porsche Taycan Plus Sport Turismo,105,19,320,kombi
-porsche-taycan-turbo-cross-turismo,Porsche Taycan Turbo Cross Turismo,105,21,320,kombi
-porsche-taycan-turbo-gt,Porsche Taycan Turbo GT,105,19,320,limousine
-porsche-macan-4-electric,Porsche Macan 4 Electric,100,18,200,SUV
-porsche-macan-4s-electric,Porsche Macan 4S Electric,100,18,200,SUV
-porsche-macan-gts-electric,Porsche Macan GTS Electric,100,20,200,SUV
-porsche-macan-turbo-electric,Porsche Macan Turbo Electric,100,20,200,SUV
-porsche-cayenne-turbo-electric,Porsche Cayenne Turbo Electric,113,24,200,SUV
-polestar-2-standard-range-single-motor,Polestar 2 Standard Range Single Motor,82,18,175,SUV
-polestar-2-long-range-dual-motor,Polestar 2 Long Range Dual Motor,82,18,175,SUV
-polestar-2-long-range-performance,Polestar 2 Long Range Performance,82,23,175,sportwagen
-polestar-4-coup-dual-motor,Polestar 4 Coupé Dual Motor,100,18,200,SUV
-polestar-4-suv-dual-motor,Polestar 4 SUV Dual Motor,100,18,200,SUV
-polestar-5-dual-motor,Polestar 5 Dual Motor,110,18,200,SUV
-polestar-3-performance,Polestar 3 Performance,111,23,200,sportwagen
-volvo-ex30-single-motor,Volvo EX30 Single Motor,69,18,150,SUV
-volvo-ex30-twin-motor,Volvo EX30 Twin Motor,69,18,150,SUV
-volvo-ex30-cross-country-p8-awd,Volvo EX30 Cross Country P8 AWD,69,18,150,SUV
-volvo-ex40-p5,Volvo EX40 P5,78,18,175,SUV
-volvo-ex40-p5-long-range,Volvo EX40 P5 Long Range,78,18,175,SUV
-volvo-ex60-p6,Volvo EX60 P6,95,18,200,SUV
-volvo-ex60-p10-awd,Volvo EX60 P10 AWD,95,18,200,SUV
-volvo-es90-single-motor,Volvo ES90 Single Motor,106,18,200,SUV
-volvo-es90-twin-motor,Volvo ES90 Twin Motor,106,18,200,SUV
-volvo-es90-twin-motor-performance,Volvo ES90 Twin Motor Performance,106,23,200,sportwagen
-volvo-ex90-twin-motor,Volvo EX90 Twin Motor,111,18,200,SUV
-volvo-ex90-twin-motor-performance,Volvo EX90 Twin Motor Performance,111,23,200,sportwagen
-lexus-rz-350e,Lexus RZ 350e,71.4,18,150,SUV
-lexus-rz-500e,Lexus RZ 500e,42,15,80,SUV
-genesis-gv60-awd-sport,Genesis GV60 AWD Sport,77.4,18,175,SUV
-genesis-gv60-magma,Genesis GV60 Magma,77.4,20,175,SUV
-byd-sealion-7-82-5-kwh-rwd-comfort,BYD SEALION 7 82.5 kWh RWD Comfort,82.5,18,175,SUV
-byd-sealion-7-82-5-kwh-awd-design,BYD SEALION 7 82.5 kWh AWD Design,82.5,18,175,SUV
-byd-tang-flagship,BYD TANG Flagship,109,18,115,SUV
-byd-seal-82-5-kwh,BYD SEAL 82.5 kWh,82.5,17,175,limousine
-xpeng-g6-rwd-standard-range,XPENG G6 RWD Standard Range,87.5,18,240,SUV
-xpeng-g6-rwd-long-range,XPENG G6 RWD Long Range,87.5,18,240,SUV
-xpeng-g6-awd-performance,XPENG G6 AWD Performance,87.5,20,240,SUV
-xpeng-g9-awd-performance,XPENG G9 AWD Performance,98,20,240,SUV
-xpeng-p7-rwd-standard-range,XPENG P7+ RWD Standard Range,85,17,175,limousine
-xpeng-p7-rwd-long-range,XPENG P7+ RWD Long Range,85,17,175,limousine
-xpeng-p7-awd-performance,XPENG P7+ AWD Performance,85,19,175,limousine
-xpeng-x9-fwd-standard-range,XPENG X9 FWD Standard Range,101,18,200,SUV
-xpeng-x9-fwd-long-range,XPENG X9 FWD Long Range,101,18,200,SUV
-xpeng-x9-awd-performance,XPENG X9 AWD Performance,101,23,200,sportwagen
-xpeng-l03-rwd-standard-range,XPENG L03 RWD Standard Range,68,16,150,kompakt
-xpeng-l03-rwd-long-range,XPENG L03 RWD Long Range,68,16,150,kompakt
-nio-et5-long-range,NIO ET5 Long Range,100,17,200,limousine
-nio-el6-standard-range,NIO EL6 Standard Range,73.5,18,150,SUV
-nio-el8-standard-range,NIO EL8 Standard Range,90,18,175,SUV
-zeekr-x-core-rwd,Zeekr X Core RWD,69,18,150,SUV
-zeekr-001-performance-awd,Zeekr 001 Performance AWD,100,23,200,sportwagen
-zeekr-001-privilege-awd,Zeekr 001 Privilege AWD,100,18,200,SUV
-zeekr-7gt-long-range-rwd,Zeekr 7GT Long Range RWD,100,20,200,SUV
-zeekr-7gt-privilege-awd,Zeekr 7GT Privilege AWD,100,20,200,SUV
-zeekr-7x-privilege-awd,Zeekr 7X Privilege AWD,100,18,200,SUV
-smart-3-pro,Smart #3 Pro,66,18,150,SUV
-smart-3-pro-2,Smart #3 Pro+,66,18,150,SUV
-smart-3-premium,Smart #3 Premium,66,18,150,SUV
-smart-3-brabus,Smart #3 Brabus,66,23,150,sportwagen
-smart-5-pro,Smart #5 Pro+,100,18,200,SUV
-smart-5-premium,Smart #5 Premium,100,18,200,SUV
-lynk-co-02,Lynk&Co 02,66,16,150,kompakt
-gwm-ora-03-300,GWM ORA 03 300,63,16,150,kompakt
-gwm-ora-03-400-pro,GWM ORA 03 400 Pro,63,16,150,kompakt
-gwm-ora-03-gt,GWM ORA 03 GT,63,18,150,kompakt
-gwm-ora-07-gt,GWM ORA 07 GT,83,20,175,SUV
-togg-t10f-standard-range-rwd,TOGG T10F Standard Range RWD,88,18,175,SUV
-togg-t10f-long-range-rwd,TOGG T10F Long Range RWD,88,18,175,SUV
-togg-t10f-long-range-awd,TOGG T10F Long Range AWD,88,18,175,SUV
-togg-t10x-long-range-rwd,TOGG T10X Long Range RWD,88,18,175,SUV
-togg-t10x-long-range-awd,TOGG T10X Long Range AWD,88,18,175,SUV
-vinfast-vf-6-plus,VinFast VF 6 Plus,59.6,18,150,SUV
-vinfast-vf-8-eco-vergr-erte-reichweite,VinFast VF 8 Eco Vergrößerte Reichweite,87.7,18,175,SUV
-vinfast-vf-8-plus-vergr-erte-reichweite,VinFast VF 8 Plus Vergrößerte Reichweite,87.7,18,175,SUV
-leapmotor-t03,Leapmotor T03,37.3,15,80,kompakt
-leapmotor-b03x-39-8-kwh,Leapmotor B03X 39.8 kWh,39.8,17,100,SUV
-leapmotor-b03x-53-0-kwh,Leapmotor B03X 53.0 kWh,53.0,18,100,SUV
-leapmotor-b10-56-2-kwh,Leapmotor B10 56.2 kWh,56.2,18,150,SUV
-leapmotor-b10-67-1-kwh,Leapmotor B10 67.1 kWh,67.1,18,150,SUV
-leapmotor-c10-rwd-69-9-kwh,Leapmotor C10 RWD 69.9 kWh,69.9,18,150,SUV
-leapmotor-c10-awd-81-9-kwh,Leapmotor C10 AWD 81.9 kWh,81.9,18,175,SUV
-mg-im5-long-range,MG IM5 Long Range,100,18,200,SUV
-mg-im5-performance,MG IM5 Performance,100,23,200,sportwagen
-mg-im6-long-range,MG IM6 Long Range,100,18,200,SUV
-mg-im6-performance,MG IM6 Performance,100,20,200,SUV
-citro-n-c5-aircross-komfort-range,Citroën C5 Aircross Komfort Range,73,18,150,SUV
-opel-frontera-electric-44-kwh,Opel Frontera Electric 44 kWh,44.0,17,100,SUV
-opel-grandland-electric-73-kwh,Opel Grandland Electric 73 kWh,73.0,18,150,SUV
-opel-grandland-electric-73-kwh-awd,Opel Grandland Electric 73 kWh AWD,73.0,18,150,SUV
-opel-grandland-electric-97-kwh,Opel Grandland Electric 97 kWh,97.0,18,200,SUV
-peugeot-e-3008-73-kwh,Peugeot e-3008 73 kWh,73.0,18,150,SUV
-peugeot-e-3008-97-kwh-long-range,Peugeot e-3008 97 kWh Long Range,97.0,18,200,SUV
-peugeot-e-5008-73-kwh,Peugeot e-5008 73 kWh,73.0,18,150,SUV
-renault-megane-e-tech-67-kwh-220ps,Renault Megane E-Tech 67 kWh 220ps,67.0,18,150,SUV
-renault-scenic-e-tech-89-kwh-220ps,Renault Scenic E-Tech 89 kWh 220ps,89.0,18,175,SUV
-mazda-6e-78-kwh,Mazda 6e 78 kWh,78.0,18,175,SUV
-subaru-uncharted-77-kwh,Subaru Uncharted 77 kWh,77.0,18,175,SUV
-subaru-uncharted-77-kwh-awd,Subaru Uncharted 77 kWh AWD,77.0,18,175,SUV
-toyota-urban-cruiser-48-8-kwh,Toyota Urban Cruiser 48.8 kWh,48.8,18,100,SUV
-toyota-urban-cruiser-61-1-kwh,Toyota Urban Cruiser 61.1 kWh,61.1,18,150,SUV
-toyota-urban-cruiser-61-1-kwh-awd,Toyota Urban Cruiser 61.1 kWh AWD,61.1,18,150,SUV
-toyota-bz4x-fwd-57-7-kwh,Toyota bZ4X FWD 57.7 kWh,57.7,18,150,SUV
-toyota-bz4x-touring-fwd-74-7-kwh,Toyota bZ4X Touring FWD 74.7 kWh,74.7,19,150,kombi
-suzuki-e-vitara-49-kwh-2wd,Suzuki e VITARA 49 kWh 2WD,49.0,18,100,SUV
-suzuki-e-vitara-61-kwh-2wd,Suzuki e VITARA 61 kWh 2WD,61.0,18,150,SUV
-suzuki-e-vitara-61-kwh-4wd-allgrip,Suzuki e VITARA 61 kWh 4WD AllGrip,61.0,18,150,SUV
-mitsubishi-eclipse-cross-87-kwh,Mitsubishi Eclipse Cross 87 kWh,87.0,18,175,SUV
-ds-automobiles-n-7-awd-long-range,DS Automobiles N°7 AWD Long Range,97,18,200,SUV
-ds-automobiles-n-8-fwd,DS Automobiles N°8 FWD,97,18,200,SUV
-kgm-torres-evx-80-6-kwh,KGM Torres EVX 80.6 kWh,80.6,18,175,SUV
-kgm-musso-ev-2wd,KGM Musso EV 2WD,80,23,175,pickup
-kgm-musso-ev-4wd,KGM Musso EV 4WD,80,23,175,pickup
-cadillac-lyriq-600-e4,Cadillac LYRIQ 600 E4,102,18,200,SUV
-cadillac-lyriq-v,Cadillac LYRIQ-V,102,18,200,SUV
-cadillac-vistiq-900-e4,Cadillac VISTIQ 900 E4,102,18,200,SUV
-land-rover-range-rover-ev450,Land Rover Range Rover EV450,81.4,18,175,SUV
-land-rover-range-rover-ev550,Land Rover Range Rover EV550,81.4,18,175,SUV
-land-rover-range-rover-lwb-ev550,Land Rover Range Rover LWB EV550,81.4,18,175,SUV
-lotus-eletre-600,Lotus Eletre 600,112,22,320,SUV
-lotus-eletre-900,Lotus Eletre 900,112,22,320,SUV
-lotus-emeya-900,Lotus Emeya 900,102,20,320,coupé
-maserati-grecale-folgore,Maserati Grecale Folgore,105,20,200,coupé
-rolls-royce-spectre-series-ii,Rolls-Royce Spectre Series II,102,20,200,coupé
-maxus-mifa-9,Maxus MIFA 9,90,27,115,van
-volkswagen-id-buzz-kr-pure,Volkswagen ID. Buzz KR Pure,86,23,200,van
-volkswagen-id-buzz-kr-pro,Volkswagen ID. Buzz KR Pro,86,23,200,van
-volkswagen-id-buzz-kr-pro-4motion,Volkswagen ID. Buzz KR Pro 4MOTION,86,23,200,van
-volkswagen-id-buzz-kr-gtx,Volkswagen ID. Buzz KR GTX,86,25,200,van
-volkswagen-id-buzz-lr-pro,Volkswagen ID. Buzz LR Pro,86,23,200,van
-volkswagen-id-buzz-lr-pro-4motion,Volkswagen ID. Buzz LR Pro 4MOTION,86,23,200,van
-volkswagen-id-buzz-lr-gtx,Volkswagen ID. Buzz LR GTX,86,25,200,van
-volkswagen-e-transporter-kombi-kr-100-kw-64-kwh,Volkswagen e-Transporter Kombi KR 100 kW 64 kWh,64.0,23,150,van
-volkswagen-e-transporter-kombi-kr-160-kw-64-kwh,Volkswagen e-Transporter Kombi KR 160 kW 64 kWh,64.0,23,150,van
-volkswagen-e-transporter-kombi-kr-210-kw-64-kwh,Volkswagen e-Transporter Kombi KR 210 kW 64 kWh,64.0,23,150,van
-volkswagen-e-transporter-kombi-lr-100-kw-64-kwh,Volkswagen e-Transporter Kombi LR 100 kW 64 kWh,64.0,23,150,van
-volkswagen-e-transporter-kombi-lr-160-kw-64-kwh,Volkswagen e-Transporter Kombi LR 160 kW 64 kWh,64.0,23,150,van
-volkswagen-e-transporter-kombi-lr-210-kw-64-kwh,Volkswagen e-Transporter Kombi LR 210 kW 64 kWh,64.0,23,150,van
-citro-n-berlingo-m-50-kwh,Citroën ë-Berlingo M 50 kWh,50.0,23,100,van
-citro-n-berlingo-xl,Citroën ë-Berlingo XL,50,23,100,van
-peugeot-e-rifter-m-50-kwh,Peugeot e-Rifter M 50 kWh,50.0,23,100,van
-peugeot-e-rifter-xl-50-kwh,Peugeot e-Rifter XL 50 kWh,50.0,23,100,van
-toyota-proace-city-verso-l1-50-kwh,Toyota Proace City Verso L1 50 kWh,50.0,23,100,van
-toyota-proace-city-verso-l2-50-kwh,Toyota Proace City Verso L2 50 kWh,50.0,23,100,van
-opel-combo-electric-50-kwh,Opel Combo Electric 50 kWh,50.0,23,100,van
-opel-combo-electric-xl-50-kwh,Opel Combo Electric XL 50 kWh,50.0,23,100,van
-citro-n-spacetourer-m-50-kwh,Citroën ë-SpaceTourer M 50 kWh,50.0,23,100,van
-citro-n-spacetourer-xl-50-kwh,Citroën ë-SpaceTourer XL 50 kWh,50.0,23,100,van
-citro-n-spacetourer-m-75-kwh,Citroën ë-SpaceTourer M 75 kWh,75.0,23,175,van
-citro-n-spacetourer-xl-75-kwh,Citroën ë-SpaceTourer XL 75 kWh,75.0,23,175,van
-peugeot-e-traveller-l2-50-kwh,Peugeot e-Traveller L2 50 kWh,50.0,23,100,van
-peugeot-e-traveller-l3-50-kwh,Peugeot e-Traveller L3 50 kWh,50.0,23,100,van
-peugeot-e-traveller-l2-75-kwh,Peugeot e-Traveller L2 75 kWh,75.0,23,175,van
-peugeot-e-traveller-l3-75-kwh,Peugeot e-Traveller L3 75 kWh,75.0,23,175,van
-opel-zafira-electric-50-kwh,Opel Zafira Electric 50 kWh,50.0,23,100,van
-opel-zafira-electric-xl-50-kwh,Opel Zafira Electric XL 50 kWh,50.0,23,100,van
-opel-zafira-electric-75-kwh,Opel Zafira Electric 75 kWh,75.0,23,175,van
-opel-zafira-electric-xl-75-kwh,Opel Zafira Electric XL 75 kWh,75.0,23,175,van
-toyota-proace-verso-l1-50-kwh,Toyota Proace Verso L1 50 kWh,50.0,23,100,van
-toyota-proace-verso-l2-75-kwh,Toyota Proace Verso L2 75 kWh,75.0,23,175,van
-mercedes-benz-evito-tourer-lang-60-kwh,Mercedes-Benz eVito Tourer Lang 60 kWh,60.0,23,150,van
-mercedes-benz-evito-tourer-lang-90-kwh,Mercedes-Benz eVito Tourer Lang 90 kWh,90.0,23,175,van
-mercedes-benz-evito-tourer-extralang-60-kwh,Mercedes-Benz eVito Tourer Extralang 60 kWh,60.0,23,150,van
-ford-e-tourneo-courier,Ford e-Tourneo Courier,54,23,100,van
-ford-e-tourneo-custom-l1-160-kw-rwd,Ford e-Tourneo Custom L1 160 kW RWD,64,23,150,van
-ford-e-tourneo-custom-l2-160-kw-rwd,Ford e-Tourneo Custom L2 160 kW RWD,64,23,150,van
-ford-e-tourneo-custom-l1-160-kw-awd,Ford e-Tourneo Custom L1 160 kW AWD,64,23,150,van
-ford-e-tourneo-custom-l2-160-kw-awd,Ford e-Tourneo Custom L2 160 kW AWD,64,23,150,van
-ford-e-tourneo-custom-l1-210-kw-awd,Ford e-Tourneo Custom L1 210 kW AWD,64,23,150,van
-ford-e-tourneo-custom-l2-210-kw-awd,Ford e-Tourneo Custom L2 210 kW AWD,64,23,150,van
-kia-pv5-passenger-51-5-kwh,Kia PV5 Passenger 51.5 kWh,51.5,23,100,van
-kia-pv5-passenger-51-5-kwh-7-sitzer,Kia PV5 Passenger 51.5 kWh 7-Sitzer,51.5,23,100,van
-kia-pv5-passenger-71-2-kwh,Kia PV5 Passenger 71.2 kWh,71.2,23,150,van
+id,label,kapazitaet_kwh,verbrauch_kwh_100km,max_ladeleistung_kw,bauform,pro
+dacia-spring-electric-80,Dacia Spring Electric 80,27.4,13,80,kompakt,ja
+dacia-spring-electric-100,Dacia Spring Electric 100,27.4,13,80,kompakt,ja
+renault-twingo-e-tech-27-5-kwh,Renault Twingo E-Tech 27.5 kWh,27.5,13,80,kompakt,ja
+fiat-500e-limousine-24kwh,Fiat 500e Limousine 24kWh,24.0,14,80,limousine,ja
+fiat-500e-limousine-42kwh,Fiat 500e Limousine 42kWh,42.0,14,80,limousine,ja
+fiat-500e-cabrio-24-kwh,Fiat 500e Cabrio 24 kWh,24.0,17,80,coupé,ja
+fiat-500e-cabrio-42-kwh,Fiat 500e Cabrio 42 kWh,42.0,17,80,coupé,ja
+fiat-500e-3-1-42-kwh,Fiat 500e 3+1 42 kWh,42.0,13,80,kompakt,ja
+mini-cooper-e,Mini Cooper E,40.7,15,100,kompakt,ja
+mini-cooper-se,Mini Cooper SE,54.2,16,100,kompakt,ja
+mini-cooper-jcw,Mini Cooper JCW,54.2,18,100,kompakt,ja
+mini-aceman-se,Mini Aceman SE,54.2,18,100,SUV,ja
+mini-aceman-jcw,Mini Aceman JCW,54.2,23,100,sportwagen,ja
+hyundai-inster-standard-range,Hyundai INSTER Standard Range,42,17,100,SUV,ja
+hyundai-inster-long-range,Hyundai INSTER Long Range,49,18,100,SUV,ja
+renault-5-e-tech-40kwh-120ps,Renault 5 E-Tech 40kWh 120ps,40.0,17,100,SUV,ja
+renault-5-e-tech-52kwh-150ps,Renault 5 E-Tech 52kWh 150ps,52.0,18,100,SUV,ja
+renault-4-e-tech-40kwh-120ps,Renault 4 E-Tech 40kWh 120ps,40.0,17,100,SUV,ja
+renault-4-e-tech-52kwh-150ps,Renault 4 E-Tech 52kWh 150ps,52.0,18,100,SUV,ja
+alfa-romeo-junior-elettrica-54-kwh,Alfa Romeo Junior Elettrica 54 kWh,54.0,16,100,kompakt,ja
+jeep-avenger-elektro,Jeep Avenger Elektro,54,16,100,kompakt,ja
+abarth-600e-turismo,Abarth 600e Turismo,54,18,100,SUV,ja
+abarth-600e-competizione,Abarth 600e Competizione,54,18,100,SUV,ja
+opel-corsa-electric-50-kwh,Opel Corsa Electric 50 kWh,50.0,16,80,kompakt,ja
+opel-corsa-electric-54-kwh,Opel Corsa Electric 54 kWh,54.0,16,80,kompakt,ja
+opel-corsa-electric-gse,Opel Corsa Electric GSE,54,16,80,kompakt,ja
+peugeot-e-208-50-kwh-136,Peugeot e-208 50 kWh 136,50.0,16,80,kompakt,ja
+peugeot-e-208-54-kwh-156,Peugeot e-208 54 kWh 156,54.0,16,80,kompakt,ja
+peugeot-e-208-gti,Peugeot e-208 GTi,54,18,80,kompakt,ja
+citro-n-c3-urban-range-30-kwh,Citroën ë-C3 Urban Range 30 kWh,30.0,17,100,SUV,ja
+citro-n-c4-54-kwh,Citroën ë-C4 54 kWh,54.0,18,100,SUV,ja
+citro-n-c4-x-54-kwh,Citroën ë-C4 X 54 kWh,54.0,18,100,SUV,ja
+citro-n-c4,Citroën ë-C4,80.0,18,175,SUV,ja
+citro-n-c4-x,Citroën ë-C4 X,80.0,18,175,SUV,ja
+ds-automobiles-n-4,DS Automobiles N°4,54,18,100,SUV,ja
+lancia-ypsilon-electric,Lancia Ypsilon Electric,54,16,100,kompakt,ja
+byd-dolphin-surf-30-kwh-active,BYD DOLPHIN SURF 30 kWh Active,30.0,17,100,SUV,ja
+byd-dolphin-surf-43-2-kwh-boost,BYD DOLPHIN SURF 43.2 kWh Boost,43.2,17,100,SUV,ja
+byd-dolphin-surf-43-2-kwh-comfort,BYD DOLPHIN SURF 43.2 kWh Comfort,43.2,17,100,SUV,ja
+byd-dolphin-60-4-kwh,BYD DOLPHIN 60.4 kWh,60.4,18,150,SUV,ja
+mg-mg4-urban-active-standard-range,MG MG4 Urban Active Standard Range,64,16,150,kompakt,ja
+mg-mg4-urban-comfort-long-range,MG MG4 Urban Comfort Long Range,64,16,150,kompakt,ja
+mg-mg4-urban-premium-long-range,MG MG4 Urban Premium Long Range,64,16,150,kompakt,ja
+mg4-standard-range,MG4 Standard Range,64,16,150,kompakt,ja
+mg4-long-range,MG4 Long Range,64,16,150,kompakt,ja
+mg4-xpower,MG4 XPower,64,16,150,kompakt,ja
+volkswagen-id-3-pro,Volkswagen ID.3 Pro,58,16,150,kompakt,ja
+volkswagen-id-3-neo-125-kw-50-kwh,Volkswagen ID.3 Neo 125 kW - 50 kWh,50.0,16,100,kompakt,ja
+volkswagen-id-3-neo-140-kw-58-kwh,Volkswagen ID.3 Neo 140 kW - 58 kWh,58.0,16,150,kompakt,ja
+volkswagen-id-3-neo-170-kw-79-kwh,Volkswagen ID.3 Neo 170 kW - 79 kWh,79.0,16,175,kompakt,ja
+cupra-born-140-kw-58-kwh,CUPRA Born 140 kW - 58 kWh,58.0,16,150,kompakt,ja
+cupra-born-endurance,CUPRA Born Endurance,77,16,175,kompakt,ja
+cupra-raval-85-kw-37-kwh,CUPRA Raval 85 kW - 37 kWh,37.0,15,80,kompakt,ja
+cupra-raval-99-kw-37-kwh,CUPRA Raval 99 kW - 37 kWh,37.0,15,80,kompakt,ja
+cupra-raval-155-kw-52-kwh,CUPRA Raval 155 kW - 52 kWh,52.0,16,80,kompakt,ja
+koda-epiq-40,Škoda Epiq 40,55,18,150,SUV,ja
+koda-epiq-55,Škoda Epiq 55,55,18,150,SUV,ja
+koda-elroq-50,Škoda Elroq 50,77,18,175,SUV,ja
+koda-elroq-60,Škoda Elroq 60,77,18,175,SUV,ja
+koda-elroq-85,Škoda Elroq 85,77,18,175,SUV,ja
+koda-elroq-85x,Škoda Elroq 85x,77,18,175,SUV,ja
+koda-elroq-rs,Škoda Elroq RS,77,18,175,SUV,ja
+koda-enyaq-60,Škoda Enyaq 60,77,18,175,SUV,ja
+koda-enyaq-85,Škoda Enyaq 85,77,18,175,SUV,ja
+koda-enyaq-85x,Škoda Enyaq 85x,77,18,175,SUV,ja
+koda-enyaq-coupe-60,Škoda Enyaq Coupe 60,77,18,175,SUV,ja
+koda-enyaq-coupe-85,Škoda Enyaq Coupe 85,77,18,175,SUV,ja
+koda-enyaq-coupe-85x,Škoda Enyaq Coupe 85x,77,18,175,SUV,ja
+koda-peaq-90,Škoda Peaq 90,90,18,175,SUV,ja
+koda-peaq-90x,Škoda Peaq 90x,90,18,175,SUV,ja
+volkswagen-id-4-pure,Volkswagen ID.4 Pure,77,18,175,SUV,ja
+volkswagen-id-4-pro,Volkswagen ID.4 Pro,77,18,175,SUV,ja
+volkswagen-id-4-pro-4motion,Volkswagen ID.4 Pro 4MOTION,77,18,175,SUV,ja
+volkswagen-id-4-gtx,Volkswagen ID.4 GTX,77,20,175,SUV,ja
+volkswagen-id-5-pure,Volkswagen ID.5 Pure,77,18,175,SUV,ja
+volkswagen-id-5-pro,Volkswagen ID.5 Pro,77,18,175,SUV,ja
+volkswagen-id-5-pro-4motion,Volkswagen ID.5 Pro 4MOTION,77,18,175,SUV,ja
+volkswagen-id-7-pro,Volkswagen ID.7 Pro,86,18,200,SUV,ja
+volkswagen-id-7-pro-s,Volkswagen ID.7 Pro S,86,18,200,SUV,ja
+volkswagen-id-7-gtx,Volkswagen ID.7 GTX,86,20,200,SUV,ja
+volkswagen-id-7-tourer-pro,Volkswagen ID.7 Tourer Pro,86,19,200,kombi,ja
+volkswagen-id-7-tourer-pro-s,Volkswagen ID.7 Tourer Pro S,86,19,200,kombi,ja
+volkswagen-id-7-tourer-gtx,Volkswagen ID.7 Tourer GTX,86,21,200,kombi,ja
+ford-explorer-standard-range-rwd,Ford Explorer Standard Range RWD,77,18,175,SUV,ja
+ford-explorer-extended-range-rwd,Ford Explorer Extended Range RWD,77,18,175,SUV,ja
+ford-capri-extended-range-awd,Ford Capri Extended Range AWD,79,18,175,SUV,ja
+ford-mustang-mach-e-awd-extended-range,Ford Mustang Mach-E AWD Extended Range,91,18,115,SUV,ja
+ford-mustang-mach-e-gt,Ford Mustang Mach-E GT,91,20,115,SUV,ja
+ford-mustang-mach-e-rally,Ford Mustang Mach-E Rally,91,18,115,SUV,ja
+ford-puma-gen-e,Ford Puma Gen-E,54,16,100,kompakt,ja
+tesla-model-3-rwd,Tesla Model 3 RWD,79,15,250,limousine,ja
+tesla-model-3-premium-rwd,Tesla Model 3 Premium RWD,79,15,250,limousine,ja
+tesla-model-3-premium-awd,Tesla Model 3 Premium AWD,79,15,250,limousine,ja
+tesla-model-3-performance,Tesla Model 3 Performance,79,17,250,limousine,ja
+tesla-model-y-rwd,Tesla Model Y RWD,79,18,250,SUV,ja
+tesla-model-y-premium-rwd,Tesla Model Y Premium RWD,79,18,250,SUV,ja
+tesla-model-y-long-range-awd,Tesla Model Y Long Range AWD,79,18,250,SUV,ja
+tesla-model-y-performance,Tesla Model Y Performance,79,23,250,sportwagen,ja
+nissan-leaf-standard-reichweite-52-kwh,Nissan LEAF Standard-Reichweite 52 kWh,52.0,16,100,kompakt,ja
+nissan-leaf-erweiterte-reichweite-75-kwh,Nissan LEAF Erweiterte Reichweite 75 kWh,75.0,16,175,kompakt,ja
+nissan-micra-40-kwh,Nissan Micra 40 kWh,40.0,15,80,kompakt,ja
+nissan-micra-52-kwh,Nissan Micra 52 kWh,52.0,16,80,kompakt,ja
+nissan-ariya-63-kwh,Nissan Ariya 63 kWh,63.0,18,150,SUV,ja
+nissan-ariya-87-kwh,Nissan Ariya 87 kWh,87.0,18,175,SUV,ja
+nissan-ariya-e-4orce-87-kwh,Nissan Ariya e-4ORCE 87 kWh,87.0,18,175,SUV,ja
+kia-ev2-42-2-kwh,Kia EV2 42.2 kWh,42.2,17,100,SUV,ja
+kia-ev2-61-kwh,Kia EV2 61 kWh,61.0,18,150,SUV,ja
+kia-ev3-58-3-kwh,Kia EV3 58.3 kWh,58.3,18,150,SUV,ja
+kia-ev3-81-4-kwh-awd,Kia EV3 81.4 kWh AWD,81.4,18,175,SUV,ja
+kia-ev3-gt,Kia EV3 GT,81.4,20,175,SUV,ja
+kia-ev4-58-3-kwh,Kia EV4 58.3 kWh,58.3,18,150,SUV,ja
+kia-ev4-81-4-kwh,Kia EV4 81.4 kWh,81.4,18,175,SUV,ja
+kia-ev4-81-4-kwh-awd,Kia EV4 81.4 kWh AWD,81.4,18,175,SUV,ja
+kia-ev4-81-4-kwh-gt,Kia EV4 81.4 kWh GT,81.4,20,175,SUV,ja
+kia-ev5-81-4-kwh-awd,Kia EV5 81.4 kWh AWD,81.4,18,175,SUV,ja
+kia-ev6-63-kwh-rwd,Kia EV6 63 kWh RWD,63.0,18,240,SUV,ja
+kia-ev6-84-kwh-rwd,Kia EV6 84 kWh RWD,84.0,18,240,SUV,ja
+kia-ev6-84-kwh-awd,Kia EV6 84 kWh AWD,84.0,18,240,SUV,ja
+kia-ev6-gt,Kia EV6 GT,84,20,240,SUV,ja
+kia-ev9-99-8-kwh-rwd,Kia EV9 99.8 kWh RWD,99.8,22,240,SUV,ja
+kia-ev9-99-8-kwh-awd,Kia EV9 99.8 kWh AWD,99.8,22,240,SUV,ja
+kia-ev9-99-8-kwh-awd-gt-line,Kia EV9 99.8 kWh AWD GT-Line,99.8,24,240,SUV,ja
+kia-ev9-99-8-kwh-awd-gt,Kia EV9 99.8 kWh AWD GT,99.8,24,240,SUV,ja
+hyundai-kona-electric-48-6-kwh,Hyundai Kona Electric 48.6 kWh,48.6,18,100,SUV,ja
+hyundai-kona-electric-65-4-kwh,Hyundai Kona Electric 65.4 kWh,65.4,18,150,SUV,ja
+hyundai-ioniq-5-63-kwh,Hyundai IONIQ 5 63 kWh,63.0,18,240,SUV,ja
+hyundai-ioniq-5-84-kwh,Hyundai IONIQ 5 84 kWh,84.0,18,240,SUV,ja
+hyundai-ioniq-5-84-kwh-allrad,Hyundai IONIQ 5 84 kWh Allrad,84.0,18,240,SUV,ja
+hyundai-ioniq-6-63-kwh-rwd,Hyundai IONIQ 6 63 kWh RWD,63.0,16,240,SUV,ja
+hyundai-ioniq-6-84-kwh-rwd,Hyundai IONIQ 6 84 kWh RWD,84.0,16,240,SUV,ja
+hyundai-ioniq-6-84-kwh-allrad,Hyundai IONIQ 6 84 kWh Allrad,84.0,16,240,SUV,ja
+hyundai-ioniq-9-long-range-rwd,Hyundai IONIQ 9 Long Range RWD,110,18,240,SUV,ja
+hyundai-ioniq-9-long-range-awd,Hyundai IONIQ 9 Long Range AWD,110,18,240,SUV,ja
+hyundai-ioniq-9-performance-awd,Hyundai IONIQ 9 Performance AWD,110,20,240,SUV,ja
+hyundai-staria-elektro-84-kwh,Hyundai STARIA Elektro 84 kWh,84.0,27,175,van,ja
+bmw-i4-edrive35,BMW i4 eDrive35,81,17,175,limousine,ja
+bmw-i4-edrive40,BMW i4 eDrive40,81,17,175,limousine,ja
+bmw-i4-xdrive40,BMW i4 xDrive40,81,17,175,limousine,ja
+bmw-i4-m60-xdrive,BMW i4 M60 xDrive,81,19,175,limousine,ja
+bmw-i5-xdrive40-limousine,BMW i5 xDrive40 Limousine,84,17,175,limousine,ja
+bmw-i5-edrive40-touring,BMW i5 eDrive40 Touring,84,19,175,kombi,ja
+bmw-i5-xdrive40-touring,BMW i5 xDrive40 Touring,84,19,175,kombi,ja
+bmw-i7-m70-xdrive,BMW i7 M70 xDrive,101.7,19,200,limousine,ja
+bmw-ix1-edrive20,BMW iX1 eDrive20,65,18,150,SUV,ja
+bmw-ix1-xdrive30,BMW iX1 xDrive30,65,18,150,SUV,ja
+bmw-ix2-edrive20,BMW iX2 eDrive20,65,18,150,SUV,ja
+bmw-ix2-xdrive30,BMW iX2 xDrive30,65,18,150,SUV,ja
+bmw-ix3-40,BMW iX3 40,80,18,175,SUV,ja
+bmw-ix-xdrive45,BMW iX xDrive45,105,18,200,SUV,ja
+bmw-ix-m70-xdrive,BMW iX M70 xDrive,105,20,200,SUV,ja
+bmw-ix5-60-xdrive,BMW iX5 60 xDrive,110,18,200,SUV,ja
+mercedes-benz-eqa-250,Mercedes-Benz EQA 250+,70.5,18,150,SUV,ja
+mercedes-benz-eqa-350-4matic,Mercedes-Benz EQA 350 4MATIC,70.5,18,150,SUV,ja
+mercedes-benz-eqb-250,Mercedes-Benz EQB 250+,70.5,18,150,SUV,ja
+mercedes-benz-eqb-350-4matic,Mercedes-Benz EQB 350 4MATIC,70.5,18,150,SUV,ja
+mercedes-benz-gla-250,Mercedes-Benz GLA 250+,85,18,175,SUV,ja
+mercedes-benz-gla-350-4matic,Mercedes-Benz GLA 350 4MATIC,85,18,175,SUV,ja
+mercedes-benz-glb-350-4matic,Mercedes-Benz GLB 350 4MATIC,85,18,175,SUV,ja
+mercedes-benz-cla-200,Mercedes-Benz CLA 200,85,15,175,limousine,ja
+mercedes-benz-cla-250,Mercedes-Benz CLA 250+,85,15,175,limousine,ja
+mercedes-benz-cla-250-2,Mercedes-Benz CLA 250,85,15,175,limousine,ja
+mercedes-benz-cla-350-4matic,Mercedes-Benz CLA 350 4MATIC,85,15,175,limousine,ja
+mercedes-benz-cla-45-4matic,Mercedes-Benz CLA 45 4MATIC+,85,15,175,limousine,ja
+mercedes-benz-eqe-300,Mercedes-Benz EQE 300,96,17,200,limousine,ja
+mercedes-benz-eqe-350,Mercedes-Benz EQE 350+,96,17,200,limousine,ja
+mercedes-benz-eqe-350-4matic,Mercedes-Benz EQE 350 4MATIC,96,17,200,limousine,ja
+mercedes-benz-eqs-450,Mercedes-Benz EQS 450+,118,17,200,limousine,ja
+mercedes-benz-eqs-580-4matic,Mercedes-Benz EQS 580 4MATIC,118,17,200,limousine,ja
+mercedes-benz-eqe-suv-350,Mercedes-Benz EQE SUV 350+,96,17,200,limousine,ja
+mercedes-benz-eqe-suv-500-4matic,Mercedes-Benz EQE SUV 500 4MATIC,96,17,200,limousine,ja
+mercedes-benz-eqe-suv-amg-53-4matic,Mercedes-Benz EQE SUV AMG 53 4MATIC+,96,17,200,limousine,ja
+mercedes-benz-eqs-suv-450,Mercedes-Benz EQS SUV 450+,118,21,200,limousine,ja
+mercedes-benz-eqs-suv-450-4matic,Mercedes-Benz EQS SUV 450 4MATIC,118,21,200,limousine,ja
+mercedes-benz-eqs-suv-500-4matic,Mercedes-Benz EQS SUV 500 4MATIC,118,21,200,limousine,ja
+mercedes-benz-eqs-suv-580-4matic,Mercedes-Benz EQS SUV 580 4MATIC,118,21,200,limousine,ja
+mercedes-benz-eqs-suv-maybach-680,Mercedes-Benz EQS SUV Maybach 680,118,21,200,limousine,ja
+mercedes-benz-glc-250,Mercedes-Benz GLC 250,94,18,175,SUV,ja
+mercedes-benz-glc-300-4matic,Mercedes-Benz GLC 300 4MATIC,94,18,175,SUV,ja
+mercedes-benz-glc-400-4matic,Mercedes-Benz GLC 400 4MATIC,94,18,175,SUV,ja
+mercedes-benz-g-580,Mercedes-Benz G 580,116,22,200,SUV,ja
+audi-q4-e-tron,Audi Q4 e-tron,82,18,175,SUV,ja
+audi-q4-e-tron-performance,Audi Q4 e-tron performance,82,20,175,SUV,ja
+audi-q4-sportback-e-tron-performance,Audi Q4 Sportback e-tron performance,82,20,175,SUV,ja
+audi-q4-sportback-e-tron-quattro,Audi Q4 Sportback e-tron quattro,82,18,175,SUV,ja
+audi-a6-sportback-e-tron,Audi A6 Sportback e-tron,100,17,200,limousine,ja
+audi-a6-sportback-e-tron-performance,Audi A6 Sportback e-tron performance,100,19,200,limousine,ja
+audi-a6-avant-e-tron,Audi A6 Avant e-tron,100,19,200,kombi,ja
+audi-a6-avant-e-tron-performance,Audi A6 Avant e-tron performance,100,21,200,kombi,ja
+audi-a6-avant-e-tron-quattro,Audi A6 Avant e-tron quattro,100,19,200,kombi,ja
+audi-q6-suv-e-tron-performance,Audi Q6 SUV e-tron performance,100,20,200,SUV,ja
+audi-q6-suv-e-tron-quattro,Audi Q6 SUV e-tron quattro,100,18,200,SUV,ja
+audi-sq6-suv-e-tron,Audi SQ6 SUV e-tron,100,18,200,SUV,ja
+porsche-taycan-turbo,Porsche Taycan Turbo,105,19,320,limousine,ja
+porsche-taycan-gts,Porsche Taycan GTS,105,19,320,limousine,ja
+porsche-taycan-plus-sport-turismo,Porsche Taycan Plus Sport Turismo,105,19,320,kombi,ja
+porsche-taycan-turbo-cross-turismo,Porsche Taycan Turbo Cross Turismo,105,21,320,kombi,ja
+porsche-taycan-turbo-gt,Porsche Taycan Turbo GT,105,19,320,limousine,ja
+porsche-macan-4-electric,Porsche Macan 4 Electric,100,18,200,SUV,ja
+porsche-macan-4s-electric,Porsche Macan 4S Electric,100,18,200,SUV,ja
+porsche-macan-gts-electric,Porsche Macan GTS Electric,100,20,200,SUV,ja
+porsche-macan-turbo-electric,Porsche Macan Turbo Electric,100,20,200,SUV,ja
+porsche-cayenne-turbo-electric,Porsche Cayenne Turbo Electric,113,24,200,SUV,ja
+polestar-2-standard-range-single-motor,Polestar 2 Standard Range Single Motor,82,18,175,SUV,ja
+polestar-2-long-range-dual-motor,Polestar 2 Long Range Dual Motor,82,18,175,SUV,ja
+polestar-2-long-range-performance,Polestar 2 Long Range Performance,82,23,175,sportwagen,ja
+polestar-4-coup-dual-motor,Polestar 4 Coupé Dual Motor,100,18,200,SUV,ja
+polestar-4-suv-dual-motor,Polestar 4 SUV Dual Motor,100,18,200,SUV,ja
+polestar-5-dual-motor,Polestar 5 Dual Motor,110,18,200,SUV,ja
+polestar-3-performance,Polestar 3 Performance,111,23,200,sportwagen,ja
+volvo-ex30-single-motor,Volvo EX30 Single Motor,69,18,150,SUV,ja
+volvo-ex30-twin-motor,Volvo EX30 Twin Motor,69,18,150,SUV,ja
+volvo-ex30-cross-country-p8-awd,Volvo EX30 Cross Country P8 AWD,69,18,150,SUV,ja
+volvo-ex40-p5,Volvo EX40 P5,78,18,175,SUV,ja
+volvo-ex40-p5-long-range,Volvo EX40 P5 Long Range,78,18,175,SUV,ja
+volvo-ex60-p6,Volvo EX60 P6,95,18,200,SUV,ja
+volvo-ex60-p10-awd,Volvo EX60 P10 AWD,95,18,200,SUV,ja
+volvo-es90-single-motor,Volvo ES90 Single Motor,106,18,200,SUV,ja
+volvo-es90-twin-motor,Volvo ES90 Twin Motor,106,18,200,SUV,ja
+volvo-es90-twin-motor-performance,Volvo ES90 Twin Motor Performance,106,23,200,sportwagen,ja
+volvo-ex90-twin-motor,Volvo EX90 Twin Motor,111,18,200,SUV,ja
+volvo-ex90-twin-motor-performance,Volvo EX90 Twin Motor Performance,111,23,200,sportwagen,ja
+lexus-rz-350e,Lexus RZ 350e,71.4,18,150,SUV,ja
+lexus-rz-500e,Lexus RZ 500e,42,15,80,SUV,ja
+genesis-gv60-awd-sport,Genesis GV60 AWD Sport,77.4,18,175,SUV,ja
+genesis-gv60-magma,Genesis GV60 Magma,77.4,20,175,SUV,ja
+byd-sealion-7-82-5-kwh-rwd-comfort,BYD SEALION 7 82.5 kWh RWD Comfort,82.5,18,175,SUV,ja
+byd-sealion-7-82-5-kwh-awd-design,BYD SEALION 7 82.5 kWh AWD Design,82.5,18,175,SUV,ja
+byd-tang-flagship,BYD TANG Flagship,109,18,115,SUV,ja
+byd-seal-82-5-kwh,BYD SEAL 82.5 kWh,82.5,17,175,limousine,ja
+xpeng-g6-rwd-standard-range,XPENG G6 RWD Standard Range,87.5,18,240,SUV,ja
+xpeng-g6-rwd-long-range,XPENG G6 RWD Long Range,87.5,18,240,SUV,ja
+xpeng-g6-awd-performance,XPENG G6 AWD Performance,87.5,20,240,SUV,ja
+xpeng-g9-awd-performance,XPENG G9 AWD Performance,98,20,240,SUV,ja
+xpeng-p7-rwd-standard-range,XPENG P7+ RWD Standard Range,85,17,175,limousine,ja
+xpeng-p7-rwd-long-range,XPENG P7+ RWD Long Range,85,17,175,limousine,ja
+xpeng-p7-awd-performance,XPENG P7+ AWD Performance,85,19,175,limousine,ja
+xpeng-x9-fwd-standard-range,XPENG X9 FWD Standard Range,101,18,200,SUV,ja
+xpeng-x9-fwd-long-range,XPENG X9 FWD Long Range,101,18,200,SUV,ja
+xpeng-x9-awd-performance,XPENG X9 AWD Performance,101,23,200,sportwagen,ja
+xpeng-l03-rwd-standard-range,XPENG L03 RWD Standard Range,68,16,150,kompakt,ja
+xpeng-l03-rwd-long-range,XPENG L03 RWD Long Range,68,16,150,kompakt,ja
+nio-et5-long-range,NIO ET5 Long Range,100,17,200,limousine,ja
+nio-el6-standard-range,NIO EL6 Standard Range,73.5,18,150,SUV,ja
+nio-el8-standard-range,NIO EL8 Standard Range,90,18,175,SUV,ja
+zeekr-x-core-rwd,Zeekr X Core RWD,69,18,150,SUV,ja
+zeekr-001-performance-awd,Zeekr 001 Performance AWD,100,23,200,sportwagen,ja
+zeekr-001-privilege-awd,Zeekr 001 Privilege AWD,100,18,200,SUV,ja
+zeekr-7gt-long-range-rwd,Zeekr 7GT Long Range RWD,100,20,200,SUV,ja
+zeekr-7gt-privilege-awd,Zeekr 7GT Privilege AWD,100,20,200,SUV,ja
+zeekr-7x-privilege-awd,Zeekr 7X Privilege AWD,100,18,200,SUV,ja
+smart-3-pro,Smart #3 Pro,66,18,150,SUV,ja
+smart-3-pro-2,Smart #3 Pro+,66,18,150,SUV,ja
+smart-3-premium,Smart #3 Premium,66,18,150,SUV,ja
+smart-3-brabus,Smart #3 Brabus,66,23,150,sportwagen,ja
+smart-5-pro,Smart #5 Pro+,100,18,200,SUV,ja
+smart-5-premium,Smart #5 Premium,100,18,200,SUV,ja
+lynk-co-02,Lynk&Co 02,66,16,150,kompakt,ja
+gwm-ora-03-300,GWM ORA 03 300,63,16,150,kompakt,ja
+gwm-ora-03-400-pro,GWM ORA 03 400 Pro,63,16,150,kompakt,ja
+gwm-ora-03-gt,GWM ORA 03 GT,63,18,150,kompakt,ja
+gwm-ora-07-gt,GWM ORA 07 GT,83,20,175,SUV,ja
+togg-t10f-standard-range-rwd,TOGG T10F Standard Range RWD,88,18,175,SUV,ja
+togg-t10f-long-range-rwd,TOGG T10F Long Range RWD,88,18,175,SUV,ja
+togg-t10f-long-range-awd,TOGG T10F Long Range AWD,88,18,175,SUV,ja
+togg-t10x-long-range-rwd,TOGG T10X Long Range RWD,88,18,175,SUV,ja
+togg-t10x-long-range-awd,TOGG T10X Long Range AWD,88,18,175,SUV,ja
+vinfast-vf-6-plus,VinFast VF 6 Plus,59.6,18,150,SUV,ja
+vinfast-vf-8-eco-vergr-erte-reichweite,VinFast VF 8 Eco Vergrößerte Reichweite,87.7,18,175,SUV,ja
+vinfast-vf-8-plus-vergr-erte-reichweite,VinFast VF 8 Plus Vergrößerte Reichweite,87.7,18,175,SUV,ja
+leapmotor-t03,Leapmotor T03,37.3,15,80,kompakt,ja
+leapmotor-b03x-39-8-kwh,Leapmotor B03X 39.8 kWh,39.8,17,100,SUV,ja
+leapmotor-b03x-53-0-kwh,Leapmotor B03X 53.0 kWh,53.0,18,100,SUV,ja
+leapmotor-b10-56-2-kwh,Leapmotor B10 56.2 kWh,56.2,18,150,SUV,ja
+leapmotor-b10-67-1-kwh,Leapmotor B10 67.1 kWh,67.1,18,150,SUV,ja
+leapmotor-c10-rwd-69-9-kwh,Leapmotor C10 RWD 69.9 kWh,69.9,18,150,SUV,ja
+leapmotor-c10-awd-81-9-kwh,Leapmotor C10 AWD 81.9 kWh,81.9,18,175,SUV,ja
+mg-im5-long-range,MG IM5 Long Range,100,18,200,SUV,ja
+mg-im5-performance,MG IM5 Performance,100,23,200,sportwagen,ja
+mg-im6-long-range,MG IM6 Long Range,100,18,200,SUV,ja
+mg-im6-performance,MG IM6 Performance,100,20,200,SUV,ja
+citro-n-c5-aircross-komfort-range,Citroën C5 Aircross Komfort Range,73,18,150,SUV,ja
+opel-frontera-electric-44-kwh,Opel Frontera Electric 44 kWh,44.0,17,100,SUV,ja
+opel-grandland-electric-73-kwh,Opel Grandland Electric 73 kWh,73.0,18,150,SUV,ja
+opel-grandland-electric-73-kwh-awd,Opel Grandland Electric 73 kWh AWD,73.0,18,150,SUV,ja
+opel-grandland-electric-97-kwh,Opel Grandland Electric 97 kWh,97.0,18,200,SUV,ja
+peugeot-e-3008-73-kwh,Peugeot e-3008 73 kWh,73.0,18,150,SUV,ja
+peugeot-e-3008-97-kwh-long-range,Peugeot e-3008 97 kWh Long Range,97.0,18,200,SUV,ja
+peugeot-e-5008-73-kwh,Peugeot e-5008 73 kWh,73.0,18,150,SUV,ja
+renault-megane-e-tech-67-kwh-220ps,Renault Megane E-Tech 67 kWh 220ps,67.0,18,150,SUV,ja
+renault-scenic-e-tech-89-kwh-220ps,Renault Scenic E-Tech 89 kWh 220ps,89.0,18,175,SUV,ja
+mazda-6e-78-kwh,Mazda 6e 78 kWh,78.0,18,175,SUV,ja
+subaru-uncharted-77-kwh,Subaru Uncharted 77 kWh,77.0,18,175,SUV,ja
+subaru-uncharted-77-kwh-awd,Subaru Uncharted 77 kWh AWD,77.0,18,175,SUV,ja
+toyota-urban-cruiser-48-8-kwh,Toyota Urban Cruiser 48.8 kWh,48.8,18,100,SUV,ja
+toyota-urban-cruiser-61-1-kwh,Toyota Urban Cruiser 61.1 kWh,61.1,18,150,SUV,ja
+toyota-urban-cruiser-61-1-kwh-awd,Toyota Urban Cruiser 61.1 kWh AWD,61.1,18,150,SUV,ja
+toyota-bz4x-fwd-57-7-kwh,Toyota bZ4X FWD 57.7 kWh,57.7,18,150,SUV,ja
+toyota-bz4x-touring-fwd-74-7-kwh,Toyota bZ4X Touring FWD 74.7 kWh,74.7,19,150,kombi,ja
+suzuki-e-vitara-49-kwh-2wd,Suzuki e VITARA 49 kWh 2WD,49.0,18,100,SUV,ja
+suzuki-e-vitara-61-kwh-2wd,Suzuki e VITARA 61 kWh 2WD,61.0,18,150,SUV,ja
+suzuki-e-vitara-61-kwh-4wd-allgrip,Suzuki e VITARA 61 kWh 4WD AllGrip,61.0,18,150,SUV,ja
+mitsubishi-eclipse-cross-87-kwh,Mitsubishi Eclipse Cross 87 kWh,87.0,18,175,SUV,ja
+ds-automobiles-n-7-awd-long-range,DS Automobiles N°7 AWD Long Range,97,18,200,SUV,ja
+ds-automobiles-n-8-fwd,DS Automobiles N°8 FWD,97,18,200,SUV,ja
+kgm-torres-evx-80-6-kwh,KGM Torres EVX 80.6 kWh,80.6,18,175,SUV,ja
+kgm-musso-ev-2wd,KGM Musso EV 2WD,80,23,175,pickup,ja
+kgm-musso-ev-4wd,KGM Musso EV 4WD,80,23,175,pickup,ja
+cadillac-lyriq-600-e4,Cadillac LYRIQ 600 E4,102,18,200,SUV,ja
+cadillac-lyriq-v,Cadillac LYRIQ-V,102,18,200,SUV,ja
+cadillac-vistiq-900-e4,Cadillac VISTIQ 900 E4,102,18,200,SUV,ja
+land-rover-range-rover-ev450,Land Rover Range Rover EV450,81.4,18,175,SUV,ja
+land-rover-range-rover-ev550,Land Rover Range Rover EV550,81.4,18,175,SUV,ja
+land-rover-range-rover-lwb-ev550,Land Rover Range Rover LWB EV550,81.4,18,175,SUV,ja
+lotus-eletre-600,Lotus Eletre 600,112,22,320,SUV,ja
+lotus-eletre-900,Lotus Eletre 900,112,22,320,SUV,ja
+lotus-emeya-900,Lotus Emeya 900,102,20,320,coupé,ja
+maserati-grecale-folgore,Maserati Grecale Folgore,105,20,200,coupé,ja
+rolls-royce-spectre-series-ii,Rolls-Royce Spectre Series II,102,20,200,coupé,ja
+maxus-mifa-9,Maxus MIFA 9,90,27,115,van,ja
+volkswagen-id-buzz-kr-pure,Volkswagen ID. Buzz KR Pure,86,23,200,van,ja
+volkswagen-id-buzz-kr-pro,Volkswagen ID. Buzz KR Pro,86,23,200,van,ja
+volkswagen-id-buzz-kr-pro-4motion,Volkswagen ID. Buzz KR Pro 4MOTION,86,23,200,van,ja
+volkswagen-id-buzz-kr-gtx,Volkswagen ID. Buzz KR GTX,86,25,200,van,ja
+volkswagen-id-buzz-lr-pro,Volkswagen ID. Buzz LR Pro,86,23,200,van,ja
+volkswagen-id-buzz-lr-pro-4motion,Volkswagen ID. Buzz LR Pro 4MOTION,86,23,200,van,ja
+volkswagen-id-buzz-lr-gtx,Volkswagen ID. Buzz LR GTX,86,25,200,van,ja
+volkswagen-e-transporter-kombi-kr-100-kw-64-kwh,Volkswagen e-Transporter Kombi KR 100 kW 64 kWh,64.0,23,150,van,ja
+volkswagen-e-transporter-kombi-kr-160-kw-64-kwh,Volkswagen e-Transporter Kombi KR 160 kW 64 kWh,64.0,23,150,van,ja
+volkswagen-e-transporter-kombi-kr-210-kw-64-kwh,Volkswagen e-Transporter Kombi KR 210 kW 64 kWh,64.0,23,150,van,ja
+volkswagen-e-transporter-kombi-lr-100-kw-64-kwh,Volkswagen e-Transporter Kombi LR 100 kW 64 kWh,64.0,23,150,van,ja
+volkswagen-e-transporter-kombi-lr-160-kw-64-kwh,Volkswagen e-Transporter Kombi LR 160 kW 64 kWh,64.0,23,150,van,ja
+volkswagen-e-transporter-kombi-lr-210-kw-64-kwh,Volkswagen e-Transporter Kombi LR 210 kW 64 kWh,64.0,23,150,van,ja
+citro-n-berlingo-m-50-kwh,Citroën ë-Berlingo M 50 kWh,50.0,23,100,van,ja
+citro-n-berlingo-xl,Citroën ë-Berlingo XL,50,23,100,van,ja
+peugeot-e-rifter-m-50-kwh,Peugeot e-Rifter M 50 kWh,50.0,23,100,van,ja
+peugeot-e-rifter-xl-50-kwh,Peugeot e-Rifter XL 50 kWh,50.0,23,100,van,ja
+toyota-proace-city-verso-l1-50-kwh,Toyota Proace City Verso L1 50 kWh,50.0,23,100,van,ja
+toyota-proace-city-verso-l2-50-kwh,Toyota Proace City Verso L2 50 kWh,50.0,23,100,van,ja
+opel-combo-electric-50-kwh,Opel Combo Electric 50 kWh,50.0,23,100,van,ja
+opel-combo-electric-xl-50-kwh,Opel Combo Electric XL 50 kWh,50.0,23,100,van,ja
+citro-n-spacetourer-m-50-kwh,Citroën ë-SpaceTourer M 50 kWh,50.0,23,100,van,ja
+citro-n-spacetourer-xl-50-kwh,Citroën ë-SpaceTourer XL 50 kWh,50.0,23,100,van,ja
+citro-n-spacetourer-m-75-kwh,Citroën ë-SpaceTourer M 75 kWh,75.0,23,175,van,ja
+citro-n-spacetourer-xl-75-kwh,Citroën ë-SpaceTourer XL 75 kWh,75.0,23,175,van,ja
+peugeot-e-traveller-l2-50-kwh,Peugeot e-Traveller L2 50 kWh,50.0,23,100,van,ja
+peugeot-e-traveller-l3-50-kwh,Peugeot e-Traveller L3 50 kWh,50.0,23,100,van,ja
+peugeot-e-traveller-l2-75-kwh,Peugeot e-Traveller L2 75 kWh,75.0,23,175,van,ja
+peugeot-e-traveller-l3-75-kwh,Peugeot e-Traveller L3 75 kWh,75.0,23,175,van,ja
+opel-zafira-electric-50-kwh,Opel Zafira Electric 50 kWh,50.0,23,100,van,ja
+opel-zafira-electric-xl-50-kwh,Opel Zafira Electric XL 50 kWh,50.0,23,100,van,ja
+opel-zafira-electric-75-kwh,Opel Zafira Electric 75 kWh,75.0,23,175,van,ja
+opel-zafira-electric-xl-75-kwh,Opel Zafira Electric XL 75 kWh,75.0,23,175,van,ja
+toyota-proace-verso-l1-50-kwh,Toyota Proace Verso L1 50 kWh,50.0,23,100,van,ja
+toyota-proace-verso-l2-75-kwh,Toyota Proace Verso L2 75 kWh,75.0,23,175,van,ja
+mercedes-benz-evito-tourer-lang-60-kwh,Mercedes-Benz eVito Tourer Lang 60 kWh,60.0,23,150,van,ja
+mercedes-benz-evito-tourer-lang-90-kwh,Mercedes-Benz eVito Tourer Lang 90 kWh,90.0,23,175,van,ja
+mercedes-benz-evito-tourer-extralang-60-kwh,Mercedes-Benz eVito Tourer Extralang 60 kWh,60.0,23,150,van,ja
+ford-e-tourneo-courier,Ford e-Tourneo Courier,54,23,100,van,ja
+ford-e-tourneo-custom-l1-160-kw-rwd,Ford e-Tourneo Custom L1 160 kW RWD,64,23,150,van,ja
+ford-e-tourneo-custom-l2-160-kw-rwd,Ford e-Tourneo Custom L2 160 kW RWD,64,23,150,van,ja
+ford-e-tourneo-custom-l1-160-kw-awd,Ford e-Tourneo Custom L1 160 kW AWD,64,23,150,van,ja
+ford-e-tourneo-custom-l2-160-kw-awd,Ford e-Tourneo Custom L2 160 kW AWD,64,23,150,van,ja
+ford-e-tourneo-custom-l1-210-kw-awd,Ford e-Tourneo Custom L1 210 kW AWD,64,23,150,van,ja
+ford-e-tourneo-custom-l2-210-kw-awd,Ford e-Tourneo Custom L2 210 kW AWD,64,23,150,van,ja
+kia-pv5-passenger-51-5-kwh,Kia PV5 Passenger 51.5 kWh,51.5,23,100,van,ja
+kia-pv5-passenger-51-5-kwh-7-sitzer,Kia PV5 Passenger 51.5 kWh 7-Sitzer,51.5,23,100,van,ja
+kia-pv5-passenger-71-2-kwh,Kia PV5 Passenger 71.2 kWh,71.2,23,150,van,ja
