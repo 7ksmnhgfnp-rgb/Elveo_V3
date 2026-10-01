@@ -1,4 +1,8 @@
 id,label,kapazitaet_kwh,verbrauch_kwh_100km,max_ladeleistung_kw,bauform,pro
+beispiel_klein,Beispiel: Kleinwagen,45,15,5,90,small,nein
+beispiel_kompakt,Beispiel: Kompaktklasse,58,16,120,compact,nein
+beispiel_suv,Beispiel: SUV,77,18,180,suv,nein
+beispiel_lang,Beispiel: Langstrecke,85,17,220,sedan,nein
 dacia-spring-electric-80,Dacia Spring Electric 80,27.4,13,80,kompakt,ja
 dacia-spring-electric-100,Dacia Spring Electric 100,27.4,13,80,kompakt,ja
 renault-twingo-e-tech-27-5-kwh,Renault Twingo E-Tech 27.5 kWh,27.5,13,80,kompakt,ja
