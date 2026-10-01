@@ -1,0 +1,25 @@
+﻿id;label;kapazitaet_kwh;verbrauch_kwh_100km;max_ladeleistung_kw;bauform;pro
+beispiel_klein;Beispiel: Kleinwagen;45;15,5;90;small;nein
+beispiel_kompakt;Beispiel: Kompaktklasse;58;16;120;compact;nein
+beispiel_suv;Beispiel: SUV;77;18;180;suv;nein
+beispiel_lang;Beispiel: Langstrecke;85;17;220;sedan;nein
+id3;VW ID.3 Pro;58;16;120;compact;ja
+id4;VW ID.4;77;18;135;suv;ja
+model3;Tesla Model 3;60;15;170;sedan;ja
+modely;Tesla Model Y;75;16,5;190;suv;ja
+ioniq5;Hyundai Ioniq 5;77;18;220;suv;ja
+ev6;Kia EV6;77;17,5;230;suv;ja
+megane;Renault Mégane E-Tech;60;16;130;compact;ja
+500e;Fiat 500e;42;15;85;small;ja
+e208;Peugeot e-208;51;15,5;100;small;ja
+cooper_se;Mini Cooper SE;49;16,5;95;small;ja
+enyaq;Škoda Enyaq;82;17;175;suv;ja
+q4_etron;Audi Q4 e-tron;82;18,5;175;suv;ja
+eqa;Mercedes EQA;66;17,5;100;suv;ja
+i4;BMW i4;83;17;205;sedan;ja
+polestar2;Polestar 2;79;17,5;205;sedan;ja
+byd_atto3;BYD Atto 3;60;16,5;88;suv;ja
+cupra_born;Cupra Born;77;16,5;135;compact;ja
+zoe;Renault Zoe;52;17,5;46;small;ja
+leaf;Nissan Leaf;59;17;100;compact;ja
+taycan;Porsche Taycan;93;20,5;270;sport;ja
